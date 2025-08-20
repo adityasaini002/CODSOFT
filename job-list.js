@@ -1,7 +1,7 @@
 const jCategory = [
     {
         index: 0,
-       images: "../IMAGES/job 1.png",
+       images: "IMAGES/job 1.png",
         title: "Web Developer",
         rates: "$900-1200/m",
         av: "Full Time",
@@ -16,7 +16,7 @@ const jCategory = [
     },
      {
         index: 1,
-       images: "../IMAGES/job 3.png",
+       images: "IMAGES/job 3.png",
         title: "Freelancer",
         rates: "$900-1200/m",
         av: "Part Time",
@@ -32,7 +32,7 @@ const jCategory = [
     },
     {
         index: 2,
-       images: "../IMAGES/job 2.png",
+       images: "IMAGES/job 2.png",
         title: "Digital Marketing",
         rates: "$900-1200/m",
         av: "Full Time",
@@ -47,7 +47,7 @@ const jCategory = [
     },
     {
         index: 3,
-       images: "../IMAGES/job 4.png",
+       images: "IMAGES/job 4.png",
         title: "Buisness Associates",
         rates: "$900-1200/m",
         av: "Part Time",
@@ -62,7 +62,7 @@ const jCategory = [
     },
     {
         index: 4,
-       images: "../IMAGES/job 5.png",
+       images: "IMAGES/job 5.png",
         title: "User Experience",
         rates: "$900-1200/m",
         av: "Part Time",
