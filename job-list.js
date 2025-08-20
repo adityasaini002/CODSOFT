@@ -1,0 +1,78 @@
+const jCategory = [
+    {
+        index: 0,
+       images: "../IMAGES/job 1.png",
+        title: "Web Developer",
+        rates: "$900-1200/m",
+        av: "Full Time",
+        companyName: "Google",
+        location: "USA",
+        vacancy: "01",
+        hours: "50h / Week",
+        discription: "At Google, Software Engineers are the backbone of our innovation, driving the development of technologies that shape the future of the digital world. In this role, you will be responsible for designing, developing, testing, deploying, and maintaining complex and scalable software systems that serve billions of users globally. You will collaborate with cross-functional teams including product managers, UX designers, researchers, and other engineers to create user-focused solutions that push the boundaries of what's possible with technology. From writing high-performance code and developing APIs to solving challenges in distributed systems and cloud infrastructure, your work will touch every layer of the software stack and directly impact products like Google Search, Maps, Gmail, Android, YouTube, and Google Cloud. You are expected to bring strong computer science fundamentals, proficiency in at least one programming language (such as Java, Python, C++, or Go), and a deep understanding of software engineering principles. Google looks for engineers who are not only technically skilled but also thrive in a fast-paced, collaborative environment. Ideal candidates will have experience working on large-scale systems, an aptitude for learning new technologies, and a passion for problem-solving and innovation. As a Googler, you'll have access to world-class resources, mentorship, and learning opportunities, all within a culture that values diversity, inclusion, and continuous improvement.",
+        workplace: "Work from home",
+        education: "Bachelor degree in Computer Science Course.", 
+        experince: "2 to 5 year(s)"
+    },
+     {
+        index: 1,
+       images: "../IMAGES/job 3.png",
+        title: "Freelancer",
+        rates: "$900-1200/m",
+        av: "Part Time",
+        companyName: "Uber",
+        location: "USA",
+        vacancy: "05",
+        hours: "40h / Week",
+        discription:"An Uber Driver (or driver‑partner) is a gig worker who uses their own licensed, four‑door vehicle to accept ride or food delivery requests through the Uber Driver app. Once a request arrives, the driver uses GPS navigation to reach the pickup point, helps passengers with luggage, and transports them reliably to their destination while following traffic laws and Uber’s safety guidelines. Success in the role requires maintaining a clean, well‑insured vehicle, tracking expenses like mileage, and consistently earning high customer ratings through polite and punctual service. Most markets require applicants to be at least 21 years old (or local equivalent), hold a valid driver’s license, pass background and vehicle inspections, carry sufficient insurance, and meet vehicle-age or car‑condition standards. Strong navigation, time‑management, and customer‑service skills are essential. Though drivers can work whenever they choose, they are classified as independent contractors responsible for all vehicle-related costs. This flexible model suits independent earners looking for on‑demand work.",
+         workplace: "Work from office",
+        education: "Bachelor degree in Computer Science Course.", 
+        experince: "1 to 5 year(s)"
+
+    },
+    {
+        index: 2,
+       images: "../IMAGES/job 2.png",
+        title: "Digital Marketing",
+        rates: "$900-1200/m",
+        av: "Full Time",
+        companyName: "Facebook",
+        location: "USA",
+        vacancy: "06",
+        hours: "50h / Week",
+        discription:"A Digital Marketing Specialist – Facebook/Meta Ads is a dynamic, analytically driven marketer responsible for planning, launching, and optimizing paid campaigns across Facebook, Instagram, and other Meta platforms to boost brand awareness, lead generation, and conversion. You’ll develop audience targeting strategies using the Meta Ads Manager, craft engaging ad creatives and copy (including testing variations), manage budgets and bids to maximize ROI, analyze campaign performance (CTR, CPA, ROAS, etc.), and generate insights and reports for stakeholders. Collaboration with content and creative teams ensures ads remain on brand and aligned with broader marketing goals. Staying current with emerging Meta tools, policy updates, and advertising trends—and applying A/B testing and funnel optimization—is key to success. Ideal candidates bring 2–4 years hands‑on experience with Facebook/Instagram ads, a solid grasp of analytics tools like Google Analytics and Meta Business Suite, strong communication skills, and a willingness to learn and adapt in a fast‑paced digital environment. This role is perfect for those passionate about leveraging social media to drive business results and engage audiences.",
+         workplace: "Work from home",
+        education: "Bachelor degree in Computer Science Course.", 
+        experince: "2 to 5 year(s)"
+    },
+    {
+        index: 3,
+       images: "../IMAGES/job 4.png",
+        title: "Buisness Associates",
+        rates: "$900-1200/m",
+        av: "Part Time",
+        companyName: "Twitter",
+        location: "USA",
+        vacancy: "03",
+        hours: "50h / Week",
+        discription:"A Business Associate on X’s Brand Partnerships and Advertising Sales teams works closely with client-facing professionals to launch and scale audience-led, data-inspired ad campaigns. They help manage campaign setup, optimization, and performance tracking using Twitter’s internal tools, addressing issues from delivery hiccups to pacing constraints and ensuring exceptional client experience. Their responsibilities include coordinating cross‑functional workflows (involving sales, strategy, marketing, and product), preparing campaign analysis and reporting materials, supporting renewal or upsell processes, and delivering stakeholder feedback to enhance X’s ad sales operations. In addition, this role involves lead tracking, engagement support at industry events, and funnel management—aligned with broader business associate expectations to build pipelines and nurture advertiser relationships. The ideal candidate combines sharp analytical skills, clear communication, and strong organizational discipline to drive advertiser success on the platform.",
+         workplace: "Work from office",
+        education: "Bachelor degree in Computer Science Course.", 
+        experince: "2 to 5 year(s)"
+    },
+    {
+        index: 4,
+       images: "../IMAGES/job 5.png",
+        title: "User Experience",
+        rates: "$900-1200/m",
+        av: "Part Time",
+        companyName: "Yahoo",
+        location: "USA",
+        vacancy: "07",
+        hours: "50h / Week",
+        discription:"user Experience (UX) Designers at Yahoo are responsible for creating intuitive, user-centered designs that enhance the usability and overall experience of our digital products. They conduct user research to understand needs and pain points, develop wireframes and prototypes, and collaborate with product managers, developers, and other stakeholders to ensure designs are feasible and aligned with business goals. UX Designers apply principles of interaction design, visual design, and information architecture to create engaging interfaces that delight users while meeting functional requirements. They also conduct usability testing to gather feedback and iterate on designs based on user insights. The ideal candidate has a strong portfolio showcasing their design process, proficiency in design tools like Sketch or Figma, and a solid understanding of user-centered design principles. Excellent communication skills are essential for presenting ideas and collaborating effectively within cross-functional teams.",
+         workplace: "Work from home",
+        education: "Bachelor degree in Computer Science Course.", 
+        experince: "1 to 5 year(s)"
+    }
+];
